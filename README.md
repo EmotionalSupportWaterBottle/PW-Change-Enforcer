@@ -11,13 +11,17 @@ Steps:
 6. This didn't work for my test environment right away. I either had to run a gpupdate or wait a bit for the changes to take affect against my users.
 
 Before running the script:
+
 ![image](https://github.com/user-attachments/assets/f5d6c91b-9ba6-427a-85a8-fff10c0994fa)
 
 Here is what the .csv file has in my test environment (1 blank line, 1 valid user, 1 nonexistent user):
+
 ![image](https://github.com/user-attachments/assets/7afb5a2f-bba8-4c68-bb01-057220a9defb)
 
 This is what it looks like when you run the script with a blank entry, a valid entry, and an invalid entry:
+
 ![image](https://github.com/user-attachments/assets/a9c8c1c0-6a03-48b6-a38b-8cbe267b4ccf)
 
 This is the result of running the script:
+
 ![image](https://github.com/user-attachments/assets/a2531a41-69e2-4895-adf8-29a197624466)
